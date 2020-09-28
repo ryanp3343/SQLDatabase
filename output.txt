@@ -1,0 +1,3 @@
+SQL>tables
+employee            student             
+SQL>exit
